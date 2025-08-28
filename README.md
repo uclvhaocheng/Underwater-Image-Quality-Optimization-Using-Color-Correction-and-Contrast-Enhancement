@@ -13,4 +13,4 @@ This study introduces an effective approach to improve underwater images, consis
 windows 10+matlab 2024b
 
 # Citation
- if you used this code, cite our publication please! thank you
+ if you used this code, cite my publication please! thank you
